@@ -1,11 +1,16 @@
 _repo: Spices-Their-Nature-and-Growth-The-Vanilla-Bean-A-Talk-on-Tea-A-Text-Book-for-Teachers_63007
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63007-h/images/cover.jpg
 creator:
   author:
     agent_name: McCormick & Co.
     gutenberg_agent_id: '52224'
     url: http://www.gutenberg.org/2009/agents/52224
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63007#Spices-Their-Nature-and-Growth-The-Vanilla-Bean-A-Talk-on-Tea-A-Text-Book-for-Teachers
 gutenberg_issued: '2020-08-22'
 gutenberg_type: Text
 identifiers:
